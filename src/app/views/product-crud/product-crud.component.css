@@ -1,0 +1,10 @@
+button {
+    margin-bottom: 30px; 
+    font-weight: 500;
+}  
+
+button:hover {
+    color:#e35e6b ;
+ }
+ 
+
